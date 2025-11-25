@@ -39,40 +39,51 @@ Git, Postman, Gradle, Docker, Kubernetes, Nginx, Gunicorn
 ### Backend Developer | Microservices
 **Centro de Desarrollo de Software UCI**
 *2024-2025*
-- **Backend:** Java, Spring Boot
-- **Frameworks:** Spring Boot, Spring WebFlux, Project Reactor, Spring Cloud, Netflix Eureka, API Gateway, Config Server
-- **Architecture:** Microservices, Reactive Architecture, Event-Driven, REST APIs
-- **Database:** PostgreSQL
-- **Tools:** Git, Postman, Gradle
-- **Methodologies:** Scrum
+-* Desarrollé y mantuve aplicaciones web con Django y PostgreSQL,
+garantizando alta disponibilidad para plataformas administrativas.
+-* Implementé un sistema de trazabilidad que rastrea automáticamente los
+cambios en los modelo de datos, mejorando la auditabilidad y la
+transparencia de los procesos.
 
-### Backend Developer
-**Centro de Desarrollo de Software UCI-SICSA**
-*2024-2025*
+
+### Especialista en Backend – Centro de Desarrollo de Software UCI 
+*** (2024 – 2025)
 - **Backend:** Java, Spring Boot
 - **Architecture:** Layered Architecture, REST APIs, SOLID Principles
 - **Tools:** Git, Postman, Gradle, PostgreSQL
 - **Methodologies:** Scrum
 
-### Full Stack Developer
-**Centro de Desarrollo de Software UCI-SICSA**
-*2024-2025*
-- **Frontend:** HTML5, CSS, JavaScript, Bootstrap, jQuery
-- **Backend:** Django, Python
-- **Architecture:** MVT
-- **Database:** PostgreSQL
-- **Tools:** Git, Postman
-- **Methodologies:** XP
+### Especialista en Backend – Centro de Desarrollo de Software UCI 
+*** (2023 – 2024)
+-* Diseñé e implementé APIs REST con Java Spring Boot y PostgreSQL,
+mejorando el rendimiento del sistema.
+-* Implementé una arquitectura de microservicios con Spring Cloud (Netflix
+Eureka, API Gateway, Config Server) para mejorar la escalabilidad y la
+tolerancia a fallos.
+-* Integré Docker para la implementación y la orquestación, reduciendo el
+tiempo de inactividad y mejorando la eficiencia de CI/CD.
 
-### Professor in Computer Engineering
-**Universidad de Ciencias Informáticas**
-*Sept 2017 - Jul 2025*
-- **Courses Taught:**
-  - Introduction to Programming
-  - Data Structures
-  - Web Development
+### Ingeniero de Software – Centro de Desarrollo de Software UCI 
+*** (2020 – 2023)
+-* Mantenimiento de aplicaciones web con Django y PostgreSQL para
+plataformas administrativas.
+-* Gestioné el ciclo de vida de las nuevas funcionalidades: desde la
+recopilación y el análisis de requisitos en reuniones con clientes hasta el
+diseño, desarrollo e implementación de los módulos solicitados.
+-* Traduje las necesidades del cliente en soluciones técnicas efectivas,
+incorporando capacidades críticas al sistema y garantizando que la
+migración no solo fuera técnica, sino también una mejora funcional para el
+usuario final.
 
----
+### Profesor – Universidad de Ciencias Informáticas UCI  
+***(2017 – 2025)
+Impartí cursos de pregrado: Introducción a la Programación, Estructuras de
+Datos, Desarrollo Web.
+Supervisé y orienté a más de 100 estudiantes en proyectos académicos y de
+desarrollo de software.
+Organicé talleres de capacitación sobre prácticas ágiles de desarrollo de
+software.
+
 
 ## 🎓 Education
 
