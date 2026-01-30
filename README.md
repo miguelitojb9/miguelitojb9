@@ -5,7 +5,7 @@
 
 ## 📞 Contact Information
 - **Phone:** +51 944 766 334
-- **Email:** miguelitojp@gmail.com
+- **Email:** miguelitojb9@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/miguel-jimenezb](http://www.linkedin.com/in/miguel-jimenezb)
 
 ---
